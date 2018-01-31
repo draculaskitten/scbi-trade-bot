@@ -1,4 +1,4 @@
-\\from Spooner's Item Bot
+//from Spooner's Item Bot
 image_names = {
     "animalfeed": ["feed"],
     "backpack": ["backpack"],
