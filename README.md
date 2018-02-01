@@ -15,4 +15,9 @@ lots of bots - looked through many of them - tried a handful http://www.carbonit
 mostly the same (all?) bot list https://discordbots.org/  
 Discord.js Documentation https://discord.js.org/#/docs/main/stable/general/welcome  
 Node.js Documentation https://nodejs.org/api/  
+Red Bot https://github.com/Cog-Creators/Red-DiscordBot  
+Red Bot Documentation https://twentysix26.github.io/Red-Docs/  
   
+# discords    
+Dyno Support Discord (get invite via https://www.dynobot.net/)  
+Dyno Custom Commands Support https://discord.gg/gwGnNb3  
