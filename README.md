@@ -21,3 +21,5 @@ Red Bot Documentation https://twentysix26.github.io/Red-Docs/
 # discords    
 Dyno Support Discord (get invite via https://www.dynobot.net/)  
 Dyno Custom Commands Support https://discord.gg/gwGnNb3  
+TESD https://discord.gg/zfu6rGZ for a running instance of Dyno Bot named Daniel  
+TEST https://discord.gg/USwTzgj for an instance of the perfect bot which is running when I run it.  
