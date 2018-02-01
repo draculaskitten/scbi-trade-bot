@@ -17,6 +17,7 @@ Discord.js Documentation https://discord.js.org/#/docs/main/stable/general/welco
 Node.js Documentation https://nodejs.org/api/  
 Red Bot https://github.com/Cog-Creators/Red-DiscordBot  
 Red Bot Documentation https://twentysix26.github.io/Red-Docs/  
+Auction Bot and the associated support discord https://discordbots.org/bot/372831574942679040  
   
 # discords    
 Dyno Support Discord (get invite via https://www.dynobot.net/)  
