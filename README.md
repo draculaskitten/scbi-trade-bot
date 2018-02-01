@@ -8,6 +8,7 @@ How to Create a Discord Bot and Get a Token https://github.com/reactiflux/discor
 Functionality and Use Research of Dyno Bot https://www.dynobot.net/  
 Configuring a JavaScript Environment https://italonascimento.github.io/configuring-a-basic-environment-for-javascript-development/  
 Enhanced Map Structure with Utilities https://github.com/eslachance/enmap  
+Discord js and Bot Guide by yorkgrimes https://anidiots.guide/  
 Using Atom IDE https://anidiots.guide/other-guides/installing-and-using-a-proper-editor.html  
 Maybe OpenShift? www.openshift.com  
 theli0nheart's work on a similar project which i'll hopefully get permission for some more of soon [items.json]  
