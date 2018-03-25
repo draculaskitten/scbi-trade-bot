@@ -1,0 +1,29 @@
+Hi Tommy,
+
+So - that discord bot I was talking about last month.. you still up for a possible looking at doing this for me?  Here are the broadbrushstroke features and functionality. What would you charge me to build this? $$
+
+Discord Trade Bot:
+
+Functionality: The Bot Listens to a text channel, adds reactions in that channel, and updates a table in a second channel.
+2 channels: Trade and Trade_Summary
+Users input into the Trade channel and results are displayed in a read-only table in Trade_Summary. 
+The bot puts a checkmark reaction under commands on the trade channel that it has seen and updated to the table on trade_summary.
+
+Commands:
+need $n text string
+have $n text string
+reset needs
+reset haves
+
+need item: adds the {user} of the command to the table on trade_summary with the number variable and text string (if the user is already in the table, it appends that users list with the new addition.)
+have item: adds the {user} of the command to the table on Trade_summary with the number variable and text stringe
+note: for both these, using a "have 0 text string" command removes that item from the table. if it is the last item that user has in the table, it also removes the user's name from the table.
+
+reset needs: removes all need items from the table for that {user} and removes that {user} from the table.
+reset haves: removes all have items from the table for that {user} and removes that {user} from the table.
+
+Advanced functionality:
+1. Auto replace "text string" with game icons where possible (I have a library of these) or discord icons. (You can only have 50 custom icons, so we use some of the discord standard ones in place of game ones.)
+2. Allow users to put a :reaction: on another user's have items command if they buy those items from the user in game. (Removes the item from the haves list in the table.)
+
+PS: I started playing with Dyno Bot for discord and it has a custom commands section, but I don't know how to write the code that would actually do these features. But using that as the basis for the trade bot might be possible and cut a bunch of time off the project?
